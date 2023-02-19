@@ -7,6 +7,7 @@
      Beta = 1 shows a stock is just as volatile as the market.
      Beta > 1 shows a stock is more volatile than a market.
      Beta < 1 shows a stock is less volatile than a market.
+ - The Beta of AMZN is 1.5 which is volatile than a broader market.
     
 
 #Data Extraction
