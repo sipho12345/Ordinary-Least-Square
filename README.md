@@ -1,4 +1,6 @@
 # Linear Regression(OLS method)
+ - Financial data was extracted from Yahoo finance.
+ - Cleaned, Scaled and Removed the error terms.
  - The project is concerned with extracting data from yahoo Finance and use the regression abalysis to find Beta of a stock.
  - We used linear regression to compare a single asset to the market to get Beta which is an shows the volatility of an individual stock with regards to the whole market(for example AMZN stock to the whole S&P500).
  - The Beta can be in one of these 3:
