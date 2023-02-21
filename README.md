@@ -10,12 +10,12 @@
  - The Beta of AMZN is 1.5 which is volatile than a broader market.
     
 
-# Data Extraction
+# Data Extraction:
 <img width="1003" alt="Screenshot 2023-02-19 at 11 31 28" src="https://user-images.githubusercontent.com/61363539/219940075-401f9c29-886e-46c7-b106-1e174797e978.png">
 
 
-# Results
+# Results:
 <img width="1056" alt="Screenshot 2023-02-19 at 11 32 28" src="https://user-images.githubusercontent.com/61363539/219940157-991d5520-0707-468b-830d-e799291e5914.png">
 
-# OLS Summary
+# OLS Summary:
 <img width="1096" alt="Screenshot 2023-02-19 at 11 34 41" src="https://user-images.githubusercontent.com/61363539/219940214-2bc5353e-8c0c-4398-a219-788687c66f7a.png">
