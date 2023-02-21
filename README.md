@@ -14,7 +14,7 @@
 <img width="1003" alt="Screenshot 2023-02-19 at 11 31 28" src="https://user-images.githubusercontent.com/61363539/219940075-401f9c29-886e-46c7-b106-1e174797e978.png">
 
 
-# Results:
+# Regression Graph:
 <img width="1056" alt="Screenshot 2023-02-19 at 11 32 28" src="https://user-images.githubusercontent.com/61363539/219940157-991d5520-0707-468b-830d-e799291e5914.png">
 
 # OLS Summary:
